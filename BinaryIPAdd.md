@@ -53,3 +53,14 @@ Class C:
 ### Special Address
 
     127.0.0.1 -> 127.255.255.255
+
+## Packet Tracer
+
+*Ping* is a tool that replies on a protocol called: 
+
+    ICMP (Internet Control Message Protocol)
+
+ARP: Address Resolution Protocol
+
+
+    Used to find the MAC address of an IP address of the network
