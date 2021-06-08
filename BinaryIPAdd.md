@@ -64,3 +64,9 @@ ARP: Address Resolution Protocol
 
 
     Used to find the MAC address of an IP address of the network
+
+Default gateway
+
+
+    A default gateway servers as the forwarding host to other networking when 
+    no other route is specification matches the destination IP address 
