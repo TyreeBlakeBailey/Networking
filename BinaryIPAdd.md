@@ -54,19 +54,3 @@ Class C:
 
     127.0.0.1 -> 127.255.255.255
 
-## Packet Tracer
-
-*Ping* is a tool that replies on a protocol called: 
-
-    ICMP (Internet Control Message Protocol)
-
-ARP: Address Resolution Protocol
-
-
-    Used to find the MAC address of an IP address of the network
-
-Default gateway
-
-
-    A default gateway servers as the forwarding host to other networking when 
-    no other route is specification matches the destination IP address 
