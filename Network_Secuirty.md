@@ -11,10 +11,11 @@
 ## Types of firewalls
 ### Packet filtering firewall 
     Control network access by analyzing inbound and outbound traffic 
-    Based on transport 4 nad network 3 layer
-    Check Destination and Source address and TCP/UDP ports
+    Based on transport 4 and network 3 layer
+    Check Destination and Source IP address and TCP/UDP ports
 
 ### Application Gateway Firewall 
+    Able to do everythign of a packet filterign firewall 
     Will also check the application data 
 
 ## De-militarised zone DMZ
