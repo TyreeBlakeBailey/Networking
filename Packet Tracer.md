@@ -46,3 +46,5 @@ Default gateway
     
     a system thar converts a host names and domain names into IP address on the internet 
     or on local networks
+
+a syste that contolr an access control policy ACL 
