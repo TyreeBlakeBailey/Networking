@@ -15,7 +15,7 @@
     Check Destination and Source IP address and TCP/UDP ports
 
 ### Application Gateway Firewall 
-    Able to do everythign of a packet filterign firewall 
+    Able to do everything of a packet filterign firewall 
     Will also check the application data 
 
 ## De-militarised zone DMZ
